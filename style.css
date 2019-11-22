@@ -1,0 +1,39 @@
+@media (min-width: 320px) {
+  .text {
+    font-size: 10px;
+   }
+ }
+ 
+@media (min-width: 481px) {
+  .text {
+    font-size: 14px;
+  }
+}
+ 
+ @media (min-width: 641px) {
+   .text {
+     font-size: 18px;
+   }
+ }
+ 
+@media (min-width: 961px) {
+  .text {
+    font-size: 22px;
+  }
+}
+
+@media (min-width: 1025px) {
+  .text {
+    font-size: 26px;
+  }
+}
+ 
+@media (min-width: 1281px) {
+  .text {
+    font-size: 30px;
+  }
+}
+ 
+
+
+ 
